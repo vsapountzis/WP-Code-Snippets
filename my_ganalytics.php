@@ -1,6 +1,6 @@
-<?php // Remove this PHP openinng tag when pasting this snippet on functions.php file
+<?php // Remove this PHP opening tag when pasting the following snippet on you child theme's functions.php file
 
-// Add this snippet to your child theme's functions.php file. Replace UA-XXXXXΧΧΧ-YΥ with your Analytics Tracking ID.
+// Add Google Analytics tracking to your WordPress website. Replace UA-XXXXXΧΧΧ-YΥ with your Analytics Tracking ID.
 
 function my_ganalytics() { ?>
   
