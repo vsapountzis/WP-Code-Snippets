@@ -1,4 +1,4 @@
-<?php
+<?php // Remove this PHP openinng tag when pasting this snippet on functions.php file
 
 // Add this snippet to your child theme's functions.php file. Replace UA-XXXXXΧΧΧ-YΥ with your Analytics Tracking ID.
 
