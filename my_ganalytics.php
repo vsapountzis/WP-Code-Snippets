@@ -1,5 +1,3 @@
-<?php 
-
 // Add this snippet to your child theme's functions.php file. Replace UA-XXXXXΧΧΧ-YΥ with your Analytics Tracking ID.
 
 function my_ganalytics() { ?>
