@@ -1,2 +1,2 @@
-# WordPress Code Snippets and Everyday Tools
+# WordPress Code Snippets
 Code snippets and other useful files for WordPress Projects
