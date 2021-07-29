@@ -1,0 +1,7 @@
+/*
+  Hide Google reCAPTCHA v3 Badge
+  A quick CSS hack to hide the annoying Google reCAPTCHA v3 (invisible) badge from the bottom right corner of your website.
+  Copy the line below in the additional CSS section (WordPress Appearance/Customizer Settings) 
+*/
+
+.grecaptcha-badge { visibility: hidden; }
